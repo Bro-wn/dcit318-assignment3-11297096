@@ -1,0 +1,14 @@
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\bin\Debug\net9.0\WareHouseInventorySystem.exe
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\bin\Debug\net9.0\WareHouseInventorySystem.deps.json
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\bin\Debug\net9.0\WareHouseInventorySystem.runtimeconfig.json
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\bin\Debug\net9.0\WareHouseInventorySystem.dll
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\bin\Debug\net9.0\WareHouseInventorySystem.pdb
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.AssemblyInfo.cs
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.dll
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\refint\WareHouseInventorySystem.dll
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.pdb
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\WareHouseInventorySystem.genruntimeconfig.cache
+C:\Users\asare\OneDrive\Desktop\318\WareHouseInventorySystem\obj\Debug\net9.0\ref\WareHouseInventorySystem.dll
