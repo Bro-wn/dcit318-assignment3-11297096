@@ -1,0 +1,14 @@
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.exe
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.deps.json
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.runtimeconfig.json
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.dll
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\bin\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfoInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.AssemblyInfo.cs
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.csproj.CoreCompileInputs.cache
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.dll
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\refint\HealthCareSystem.dll
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.pdb
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\HealthCareSystem.genruntimeconfig.cache
+C:\Users\asare\OneDrive\Desktop\318\HealthCareSystem\obj\Debug\net9.0\ref\HealthCareSystem.dll
